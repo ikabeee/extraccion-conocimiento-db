@@ -6,5 +6,11 @@ for(i in 1:10) {
     }
 }
 
-# TODO
-# Hacerlo formato de tabla
+
+print("Tabla de multiplicar completa:")
+for(i in 1:10) {
+    for(j in 1:10) {
+        cat(i * j, "\t")
+    }
+    cat("\n")
+}
