@@ -1,3 +1,5 @@
+#Gonzalez Mollinedo Carlos
+
 turistas <- read.csv("data/turistas_gastos.csv")
 str(turistas)
 summary(turistas)
