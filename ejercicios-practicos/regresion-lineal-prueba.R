@@ -47,3 +47,4 @@ cat("Proyección para 6 noches: $", round(gasto_6_noches, 2), "USD")
 cat("Proyección para 21 noches: $", round(gasto_21_noches, 3), "USD")
 cat("Proyección para 21 noches: $", round(gasto_365_noches, 3), "USD")
 
+#GONZALEZ MOLLINEDO CARLOS
